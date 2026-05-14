@@ -1,0 +1,17 @@
+# Entorno virtual (uv)
+.venv/
+**/.venv/
+
+# Binarios/cache de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Metadatos locales de kernels/notebooks
+.ipynb_checkpoints/
+
+# Archivo local opcional de versión de Python (si usás uv python pin)
+.python-version
+
+clases
