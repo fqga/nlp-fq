@@ -14,4 +14,7 @@ __pycache__/
 # Archivo local opcional de versión de Python (si usás uv python pin)
 .python-version
 
+# Metadatos de seguridad de Windows (descargas)
+*:Zone.Identifier
+
 clases
