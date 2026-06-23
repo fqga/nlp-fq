@@ -21,3 +21,8 @@ clases
 
 # Libros epub (copyright)
 *.epub
+
+# Modelos entrenados (binarios grandes, reproducibles desde el notebook)
+*.keras
+*.h5
+*.weights.h5
