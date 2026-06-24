@@ -28,3 +28,19 @@ El **Desafío 2** se encuentra en:
 El corpus de texto utilizado (extraído del epub) está en:
 
 `desafios/desafio02/corpus_tres_cuerpos.txt`
+
+## Ubicación del Desafío 3
+
+El **Desafío 3** se encuentra en:
+
+`desafios/desafio03/Desafio_3_Resolucion.ipynb`
+
+## Ubicación del Desafío 4
+
+El **Desafío 4** se encuentra en:
+
+`desafios/desafio04/Desafio_4_.ipynb`
+
+El notebook de referencia de la clase (traductor base) está en:
+
+`desafios/desafio04/Traductor.ipynb`
